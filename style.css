@@ -1,0 +1,72 @@
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+}
+.container-fluid
+{
+    position: sticky;
+}
+.nav-link
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.mainbody
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+    height: 700px;
+    color: white;
+}
+h2
+{
+    font-size: 120px;
+}
+h1
+{
+    font-size: 100px;
+}
+#source
+{
+    height: 104px;
+}
+.site-body
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.content
+{
+    padding: 80px;
+}
+img
+{
+    width: 40vw;
+    height: 70vh;
+}
+.row
+{
+    margin: 0px;
+    padding: 20px;
+}
+#black
+{
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+.card:hover
+{
+    transition: 0.3s;
+    background-color: black;
+    color: white;
+}
+.center
+{
+    text-align: center;
+}
